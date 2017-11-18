@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "843084098892",
+    "firebase_url": "https://patientdoctorinteractivity.firebaseio.com",
+    "project_id": "patientdoctorinteractivity",
+    "storage_bucket": "patientdoctorinteractivity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843084098892:android:bf76945d1df9838c",
+        "android_client_info": {
+          "package_name": "com.example.andy.patient_doctor_interactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843084098892-47hse3th9e2dck0k1o62qvdr3pr1vcj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andy.patient_doctor_interactivity",
+            "certificate_hash": "3d8569b087834121d607ff8f645b87ec0d922074"
+          }
+        },
+        {
+          "client_id": "843084098892-okanj6n5upm3dfkpa8212s97e8bfc60l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZvgi0GB7e4Mq4AZ9K-h9B8OQpzc4dTxw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843084098892-okanj6n5upm3dfkpa8212s97e8bfc60l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
